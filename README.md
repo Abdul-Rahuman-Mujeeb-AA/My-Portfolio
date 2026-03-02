@@ -46,4 +46,3 @@ Adjust breakpoints in media queries for different screen sizes
 
 Replace images and in the folder
 
-🌍 Live Demo: https://my-portfolio-lemon-delta-69.vercel.app/
