@@ -34,14 +34,7 @@ The website is optimized for multiple screen sizes using CSS media queries:
 - Mobile 📲
 
 ---
-
-## 📂 Project Structure
-
-portfolio/
-│
-├── index.html
-├── style.css
-├──img.png
+
 
 ✏️ Customization
 
